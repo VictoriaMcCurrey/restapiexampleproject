@@ -1,10 +1,10 @@
 <?php
     class Database {
         // DB Params
-        private $host = 'localhost';
-        private $db_name = 'myblog';
-        private $username = 'me';
-        private $password = '123456';
+        private $host = 'acw2033ndw0at1t7.cbetxkdyhwsb.us-east-1.rds.amazonaws.com';
+        private $db_name = 'tueyckuise9dw275';
+        private $username = 'eo68a6id9wtlsplo';
+        private $password = 'i4k1jzulk4j4d4qu';
         private $conn;
 
         // DB Connect
